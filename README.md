@@ -2,4 +2,4 @@
 Choose your burger using React app
 
 
-Burger Ordering Management System, UI built with React
+UI of Burger Ordering Management System, React app
